@@ -16,7 +16,6 @@ cd Proyecto-Dashboard-Ventas
 📌 **Ejecutar el Dashboard**
 
 Ejecuta el siguiente comando en RStudio para cargar la aplicación:
-```r
 Asegúrate de que la carpeta Dashboard-R-ACA-main/ esté dentro del directorio predeterminado de RStudio.
 source("Dashboard-R-ACA-main/DashboardApp.R", echo = TRUE)
 
