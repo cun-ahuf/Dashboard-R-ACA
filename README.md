@@ -13,8 +13,12 @@ install.packages(c("shiny", "tidyverse", "plotly", "readxl", "RColorBrewer"))
 git clone https://github.com/tu-usuario/Proyecto-Dashboard-Ventas.git
 cd Proyecto-Dashboard-Ventas
 
-Abre RStudio y carga el script principal:
-source("DashboardApp.R")
+📌 **Ejecutar el Dashboard**
+
+Ejecuta el siguiente comando en RStudio para cargar la aplicación:
+```r
+Asegúrate de que la carpeta Dashboard-R-ACA-main/ esté dentro del directorio predeterminado de RStudio.
+source("Dashboard-R-ACA-main/DashboardApp.R", echo = TRUE)
 
 📂 Estructura del Proyecto
 /Proyecto-Dashboard-Ventas
